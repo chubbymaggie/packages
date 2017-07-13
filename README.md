@@ -5,7 +5,7 @@
 
 <p align="center" >
 <br />
-This repository contains <b>lastest</b> prebuilt packages.
+This repository contains <b>lastest</b> prebuilt packages from the <a href="https://github.com/lief-project/LIEF/tree/master">master</a> branch.
 </p>
 
 
@@ -20,31 +20,31 @@ This repository contains <b>lastest</b> prebuilt packages.
 </tr>
 
 <tr>
-  <td>SDK</td>
-  <td>SDK</td>
-  <td>SDK</td>
-  <td>SDK</td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/LIEF-0.7.0-Linux.tar.gz">SDK</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/LIEF-0.7.0-win32.tar.gz">SDK</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/LIEF-0.7.0-win64.tar.gz">SDK</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/LIEF-0.7.0-Darwin.tar.gz">SDK</a></td>
 </tr>
 
 <tr>
-  <td>Python 2.7</td>
-  <td>Python 2.7</td>
-  <td>Python 2.7</td>
-  <td>Python 2.7</td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/linux_lief-0.7.0_py2.7.tar.gz">Python 2.7</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/windows_x86_lief-0.7.0_py2.7.tar.gz">Python 2.7</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/windows_x64_lief-0.7.0_py2.7.tar.gz">Python 2.7</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/osx_lief-0.7.0_py2.7.tar.gz">Python 2.7</a></td>
 </tr>
 
 <tr>
-  <td>Python 3.5</td>
-  <td>Python 3.5</td>
-  <td>Python 3.5</td>
-  <td>Python 3.5</td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/linux_lief-0.7.0_py3.5.tar.gz">Python 3.5</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/windows_x86_lief-0.7.0_py3.5.tar.gz">Python 3.5</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/windows_x64_lief-0.7.0_py3.5.tar.gz">Python 3.5</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/osx_lief-0.7.0_py3.5.tar.gz">Python 3.5</a></td>
 </tr>
 
 <tr>
-  <td>Python 3.6</td>
-  <td>Python 3.6</td>
-  <td>Python 3.6</td>
-  <td>Python 3.6</td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/linux_lief-0.7.0_py3.6.tar.gz">Python 3.6</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/windows_x86_lief-0.7.0_py3.6.tar.gz">Python 3.6</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/windows_x64_lief-0.7.0_py3.6.tar.gz">Python 3.6</a></td>
+  <td><a href="https://github.com/lief-project/packages/raw/lief-master-latest/osx_lief-0.7.0_py3.6.tar.gz">Python 3.6</a></td>
 </tr>
 </table>
 
